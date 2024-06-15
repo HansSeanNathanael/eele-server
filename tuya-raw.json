@@ -1,0 +1,115 @@
+{
+    "result": [
+        {
+            "active_time": 1718430884,
+            "biz_type": 18,
+            "category": "cz",
+            "create_time": 1718421958,
+            "icon": "smart/icon/ay1531122507771gALCb/25e7b0519eb4e6aa81cbeff3caad404a.jpg",
+            "id": "ebf19ba30ea9d231c5ega7",
+            "ip": "36.68.223.22",
+            "lat": "-7.3231",
+            "local_key": "]apQZ4a3{]k;X+VW",
+            "lon": "112.7489",
+            "model": "ET21-bk-\u65e7UI-\u505c\u4ea7-\u4e2d\u6027\u6b27\u89c4EU02A-16A\u8ba1\u91cfCB2S-BK7231N \u8fc7\u5145\u4fdd\u62a4",
+            "name": "Smart plug",
+            "online": true,
+            "owner_id": "202341825",
+            "product_id": "newhgkiotowsaryi",
+            "product_name": "Smart plug",
+            "status": [
+                {
+                    "code": "switch_1",
+                    "value": true
+                },
+                {
+                    "code": "countdown_1",
+                    "value": 0
+                },
+                {
+                    "code": "add_ele",
+                    "value": 5
+                },
+                {
+                    "code": "cur_current",
+                    "value": 0
+                },
+                {
+                    "code": "cur_power",
+                    "value": 0
+                },
+                {
+                    "code": "cur_voltage",
+                    "value": 2173
+                },
+                {
+                    "code": "test_bit",
+                    "value": 1
+                },
+                {
+                    "code": "voltage_coe",
+                    "value": 571
+                },
+                {
+                    "code": "electric_coe",
+                    "value": 29588
+                },
+                {
+                    "code": "power_coe",
+                    "value": 16153
+                },
+                {
+                    "code": "electricity_coe",
+                    "value": 2580
+                },
+                {
+                    "code": "fault",
+                    "value": 0
+                },
+                {
+                    "code": "relay_status",
+                    "value": "memory"
+                },
+                {
+                    "code": "overcharge_switch",
+                    "value": false
+                },
+                {
+                    "code": "light_mode",
+                    "value": "relay"
+                },
+                {
+                    "code": "child_lock",
+                    "value": false
+                },
+                {
+                    "code": "cycle_time",
+                    "value": ""
+                },
+                {
+                    "code": "random_time",
+                    "value": ""
+                },
+                {
+                    "code": "switch_inching",
+                    "value": ""
+                }
+            ],
+            "sub": false,
+            "time_zone": "+07:00",
+            "uid": "az1718421640738BiYiS",
+            "update_time": 1718430886,
+            "uuid": "85a1634025684b66"
+        }
+    ],
+    "success": true,
+    "t": 1718438849726,
+    "tid": "4f888b1e2aee11ef9c7442b1fe1466b5",
+    "file": {
+        "name": "tuya-raw.json",
+        "description": "Full raw list of Tuya devices.",
+        "account": "mt4k854svuqxtewnfppy",
+        "date": "2024-06-15T15:07:29.659971",
+        "tinytuya": "1.14.0"
+    }
+}
